@@ -11,7 +11,7 @@ Understanding Geek Squad Appointments
 
 
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: book appointment.png
    :alt: My Project Logo
    :width: 400px
    :align: center
